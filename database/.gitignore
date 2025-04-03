@@ -1,0 +1,39 @@
+# Laravel & Composer
+/vendor
+/node_modules
+/public/hot
+/public/storage
+/storage/*.key
+/storage/app/*.key
+/.env
+/.env.*.php
+/.vscode
+Homestead.yaml
+Homestead.json
+
+# Laravel IDE Helper
+/_ide_helper.php
+/_ide_helper_models.php
+
+# Jetstream (if using)
+/jetstream.php
+
+# Laravel Debugbar
+/storage/debugbar
+
+# Laravel Mix
+/public/mix-manifest.json
+/public/css
+/public/js
+
+# MacOS Finder
+.DS_Store
+
+# Windows Installer Files
+Thumbs.db
+
+# PHPStorm
+.idea/
+
+# Composer
+composer.lock
